@@ -95,7 +95,7 @@
 <a href="https://t.me/linux_repositori"><img src="https://img.shields.io/badge/Linux%20Repositories-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Telegram Bots Channel:
-<a href="https://t.me/WEArEReDx4"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/infotechbots"><img src="https://img.shields.io/badge/Infotech%20bots-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 [instagram]: https://instagram.com/ff_rixo
 [telegram]: https://t.me/itxredx
