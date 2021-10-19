@@ -14,7 +14,7 @@
     - Kannada
 - [More on Telegram](https://t.me/itxredx)
 
-<p align="left"> <a href="https://github.com/itxredx"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/infotechIT"><img src="https://komarev.com/ghpvc/?username=infotechIT&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
